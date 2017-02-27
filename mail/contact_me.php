@@ -1,5 +1,5 @@
 <?php
-require 'PHPMailerAutoload.php';
+require '../vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
 
 // Check for empty fields
 if(empty($_POST['name'])  		||
