@@ -31,8 +31,8 @@ $mail = new PHPMailer;
 $mail->isSMTP();
 $mail->Host = 'smtp.gmail.com';
 $mail->SMTPAuth = true;
-$mail->Username = 'responsegeniustesting@gmail.com';
-$mail->Password = 'net55support';
+$mail->Username = 'summonermoh@hotmail.com';
+$mail->Password = '082589l!';
 $mail->SMTPSecure = 'tls';
 $mail->Port = 587;
 
