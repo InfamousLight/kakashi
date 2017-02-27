@@ -29,7 +29,7 @@ $mail = new PHPMailer;
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
 
 $mail->isSMTP();
-$mail->Host = 'smtp.gmail.com';
+$mail->Host = 'smtp.live.com';
 $mail->SMTPAuth = true;
 $mail->Username = 'summonermoh@hotmail.com';
 $mail->Password = '082589l!';
